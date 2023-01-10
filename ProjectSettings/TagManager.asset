@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Pickup
+  - FlowerRed
+  - FlowerBlue
+  - FlowerGreen
   layers:
   - Default
   - TransparentFX
